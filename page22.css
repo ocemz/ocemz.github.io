@@ -1,0 +1,17 @@
+body{
+	background: #000000
+}
+
+
+
+
+.information{
+    text-align: center;
+    margin-top: -1010px;
+    
+    text-decoration: underline;
+    padding: 300px;
+    display: flex;
+    font-size: 152.5%;
+    color: #fff;
+}

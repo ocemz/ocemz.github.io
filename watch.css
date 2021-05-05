@@ -1,0 +1,15 @@
+body{
+    background-color: #202020;
+}
+.contenu{
+	font-size: 20px;
+	text-decoration: underline;
+	text-align: center;
+    
+    
+    
+    padding: 20px;
+    display: flex;
+    font-size: 152.5%;
+    color: #fff;
+}
